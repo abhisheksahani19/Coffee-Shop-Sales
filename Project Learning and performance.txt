@@ -1,0 +1,16 @@
+Project Learning and performance
+
+1. Reading the data carefully
+2. Cleaning
+3. Prepared a table for month-wise sales
+4. Prepared a table for week-wise sales
+5. Prepared a table hourly-sales 
+6. Prepared pivot tables for all the table in working sheet
+7. Created measures for total_sales, Total_footfall, avr_bill/Peron and avr_ord/person, avg_
+
+
+
+
+
+
+
